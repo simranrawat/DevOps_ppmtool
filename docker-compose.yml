@@ -16,7 +16,7 @@ services:
     ports:
       - "9001:3306"
   react:
-    image: react_client
+    image: simranrawat/react_client
     container_name: client
     ports:
       - "3000:3000"
@@ -26,7 +26,7 @@ services:
       - spring
     command: npm start
   spring:
-    image: spring_server
+    image: simranrawat/spring_server
     container_name: server
     ports:
       - "8080:8080"
