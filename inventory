@@ -1,1 +1,1 @@
-172.16.144.184 ansible_user=simran
+172.16.144.184 ansible_user=simran ansible_ssh_pass=mummy
