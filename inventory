@@ -1,2 +1,1 @@
-[ubuntu18]
-192.168.56.101 ansible_user=simran
+172.16.144.184 ansible_user=simran
