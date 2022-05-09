@@ -29,7 +29,7 @@ services:
     image: simranrawat/spring_server
     container_name: server
     ports:
-      - "8080:8080"
+      - "9000:9000"
     environment:
       SPRING_DATASOURCE_URL: "jdbc:mysql://mysqldb:3306/ppm?allowPublicKeyRetrieval=true&useSSL=false&createDatabaseIfNotExist=true"
     networks:
