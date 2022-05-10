@@ -1,1 +1,2 @@
-/home/simran/Desktop/DevOps_ppmtool/PPMToolFullStack/src/test/java/io/agileintelligence/ppmtool/PpmtoolApplicationTests.java
+/home/simran/Desktop/DevOps_ppmtool/PPMToolFullStack/src/test/java/io/agileintelligence/ppmtool/services/UserServiceTest.java
+/home/simran/Desktop/DevOps_ppmtool/PPMToolFullStack/src/test/java/io/agileintelligence/ppmtool/services/CustomUserDetailsServiceTest.java
