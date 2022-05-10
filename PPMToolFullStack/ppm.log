@@ -1,0 +1,36 @@
+2022-05-11 01:52:57.813  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@174e1b99
+2022-05-11 01:52:57.965  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@69bca406
+2022-05-11 01:52:57.965  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@48d31d25
+2022-05-11 01:52:58.053  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@69bca406
+2022-05-11 01:52:58.053  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@46188a89
+2022-05-11 01:52:58.142  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@69bca406
+2022-05-11 01:52:58.142  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@6f65a203
+2022-05-11 01:52:58.230  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@69bca406
+2022-05-11 01:52:58.244  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@1214c98b
+2022-05-11 01:52:58.374  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@1214c98b
+2022-05-11 01:52:58.379  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 41
+2022-05-11 01:52:58.478  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@1214c98b
+2022-05-11 01:52:58.478  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@7a274521
+2022-05-11 01:52:58.574  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@7a274521
+2022-05-11 01:52:58.574  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 42
+2022-05-11 01:52:58.576  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@7a274521
+2022-05-11 01:52:58.576  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@5d7ff311
+2022-05-11 01:52:58.671  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@5d7ff311
+2022-05-11 01:52:58.671  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 43
+2022-05-11 01:52:58.673  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@5d7ff311
+2022-05-11 01:52:58.673  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@af3295f
+2022-05-11 01:52:58.767  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@af3295f
+2022-05-11 01:52:58.767  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 44
+2022-05-11 01:52:58.769  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@af3295f
+2022-05-11 01:52:58.769  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@1cab19e2
+2022-05-11 01:52:58.883  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@1cab19e2
+2022-05-11 01:52:58.883  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 45
+2022-05-11 01:52:58.885  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@1cab19e2
+2022-05-11 01:52:58.885  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@2d3c501b
+2022-05-11 01:52:58.980  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@2d3c501b
+2022-05-11 01:52:58.980  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 46
+2022-05-11 01:52:58.982  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@2d3c501b
+2022-05-11 01:52:58.982  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [saveUser] - io.agileintelligence.ppmtool.domain.User@4bca8eaf
+2022-05-11 01:52:59.078  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - saveUser] - io.agileintelligence.ppmtool.domain.User@4bca8eaf
+2022-05-11 01:52:59.078  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [loadUserById] - 47
+2022-05-11 01:52:59.080  INFO 11382 --- [           main] i.a.ppmtool.services.UserService         : [RESULT - loadUserById] - io.agileintelligence.ppmtool.domain.User@4bca8eaf
