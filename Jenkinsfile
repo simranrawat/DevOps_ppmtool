@@ -56,7 +56,7 @@ pipeline {
 
         stage('Ansible Deploy') {
              steps {
-                  ansiblePlaybook colorized: true, disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'play.yml'
+                  ansiblePlaybook colorized: true,credentialsId: "container_access_key", disableHostKeyChecking: true, installation: 'Ansible', inventory: 'inventory', playbook: 'play.yml'
              }
         }
     }
