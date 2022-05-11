@@ -1,6 +1,6 @@
 # Personal Project Management Tool
 
-A personal project management tool developed in SpringBoot and React JS.
+A personal project management tool developed in SpringBoot and React JS with mysql database.
 
 ## Installing and Running the application
  Download the project folder PPMToolFullStack and do:
