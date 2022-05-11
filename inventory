@@ -1,1 +1,7 @@
-172.16.144.184 ansible_user=simran ansible_ssh_pass=mummy
+PPM_Server ansible_host=18.217.144.223
+
+[PPM_Server_group]
+PPM_Server
+
+[PPM_Server_group:vars]
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
